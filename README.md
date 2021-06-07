@@ -4,7 +4,7 @@
 
 With the purpose of accurately measuring the votes casted during this last election, a Colorado Board of Elections tasked us in creating a program that calulates the total number of votes casted and determining a winner based on the candidate with the greatest amount of votes. We wish to look as well, an analysis of the distribution of such votes, based both on candidate as well as county. The program outputs a comprehensive summary of the distribution of votes in percentages from the total as well as their individual points. The following analysis presents a compilation of the results found when running the program given our raw ```election_results.csv``` data file.
 
-## Election Audit Results
+## [Election Audit Results](analysis/election_analysis.txt)
 
 There were a total of ***369,711*** votes casted during the election across the counties of Jefferson, Denver and Arapahoe.
 
